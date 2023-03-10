@@ -1,6 +1,6 @@
 <h1 align="center">Taller 2</h1>
 
-<h1 align="justify">____________________________________________________________________________</h1>
+<h1 align="justify">__________________________________________________</h1>
  <h3 align="justify">Se genera una Shell en la cual se crea un menú con las opciones solicitadas en el taller que le permita al usuario escoger la acción que desea realizar en la configuración del servidor</h3>
 
  <h3 align="justify">1. Para la opción cambio de nombre del servidor se ejecuta el comando hostnamectl el cual muestra toda la información actual del servidor y luego se le pregunta al usuario si desea hacer el cambio del nombre del servidor.
